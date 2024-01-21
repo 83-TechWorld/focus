@@ -1,8 +1,10 @@
 {
-  "name": "focus",
-  "displayName": "productive-foucs",
+  "name": "productive-focus",
+  "displayName": "productive-focus",
   "description": "This extension will help you focus on your work and achieve your goals within a specific timeframe",
-  "version": "0.0.1",
+  "publisher": "83TechWorld",
+  "version": "0.0.2",
+  "icon": "Productivity-Focus.jpg",
   "engines": {
     "vscode": "^1.85.0"
   },
@@ -31,6 +33,29 @@
     "lint": "eslint .",
     "pretest": "npm run lint",
     "test": "vscode-test"
+  },
+  "keywords": [
+    "focus",
+    "productive",
+    "time-management",
+    "motivational",
+    "Inspirational",
+    "goal",
+    "time tracking",
+    "work breaks",
+    "task schedular",
+    "work habits",
+    "productive booster",
+    "distraction free work",
+    "task effieciency"
+  ],
+  "bugs": {
+    "url": "https://github.com/83-TechWorld/focus"
+  },
+  "homepage": "https://github.com/83-TechWorld/focus",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/83-TechWorld/focus.git"
   },
   "devDependencies": {
     "@types/vscode": "^1.85.0",

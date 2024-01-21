@@ -68,8 +68,8 @@ function startFocus(inputUsername, interval) {
 			// Update status bar with remaining time
 			updateStatusBar();
 
-			// Display quote every 7 minutes
-			if (remainingTime % (7 * 60) === 0) {
+			// Display quote every 5 minutes
+			if (remainingTime % (5 * 60) === 0) {
 				const randomQuote = getRandomQuote(quotes);
 				vscode.window.showInformationMessage(`${username}, ${randomQuote}`);
 			}

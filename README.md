@@ -2,7 +2,7 @@
 
 Introducing our innovative focus extension – a powerful tool designed to enhance your productivity and help you achieve your goals efficiently. With our extension, you can seamlessly set dedicated time intervals for focused work, allowing you to make the most out of every moment.
 
-Life is full of distractions, and staying on track can be challenging. Our extension empowers you to stay disciplined by providing you with the ability to set specific timeframes for your work sessions. But that's not all – we understand that motivation is key to success. That's why, at intervals of every 7 minutes, our extension delivers inspirational quotes directly to you. These uplifting messages serve as a constant reminder of your goals, keeping you motivated and driven throughout your work session.
+Life is full of distractions, and staying on track can be challenging. Our extension empowers you to stay disciplined by providing you with the ability to set specific timeframes for your work sessions. But that's not all – we understand that motivation is key to success. That's why, at intervals of every 5 minutes, our extension delivers inspirational quotes directly to you. These uplifting messages serve as a constant reminder of your goals, keeping you motivated and driven throughout your work session.
 
 Here's how it works: simply input the desired duration for your focused work, and let our extension take care of the rest. As you progress through your work, you'll receive timely quotes that inspire and encourage you to stay on course. This unique combination of focused time intervals and motivational quotes creates an environment that fosters productivity and helps you overcome distractions with ease.
 
