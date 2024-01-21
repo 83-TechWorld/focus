@@ -16,7 +16,7 @@ Once you've installed the 'production-focus' extension and you can proceed with 
 
 1. **Customizable Focus Intervals:** Tailor your work sessions with precision by setting personalized time intervals, allowing you to structure your focus and breaks according to your unique productivity preferences.
 
-2. **Motivational Quotes on Demand:** Stay inspired throughout your work with our extension's curated collection of motivational quotes, delivered every 7 minutes, providing a constant source of encouragement to help you stay on track and achieve your goals.
+2. **Motivational Quotes on Demand:** Stay inspired throughout your work with our extension's curated collection of motivational quotes, delivered every 5 minutes, providing a constant source of encouragement to help you stay on track and achieve your goals.
 
 ## Release Notes
 
